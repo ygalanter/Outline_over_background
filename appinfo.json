@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "yuri@galanter.net",
+    "longName": "Outline over background",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/mer.png",
+                "name": "MASK_BG",
+                "type": "png"
+            },
+            {
+                "file": "images/mask_mask.png",
+                "name": "MASK_SHAPE",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Outline over background",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "f7011722-1d2d-482a-a337-cfb3b9365bce",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
